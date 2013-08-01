@@ -5,3 +5,5 @@ HFSPlusDiskHex/HFSPlusDiskHex-Prefix.pch
 ./*.DS_Store
 xcuserdata
 HFSPlusDiskHex/makefile
+HFSPlusDiskHex/a.out
+HFSPlusDiskHex/*.swp
